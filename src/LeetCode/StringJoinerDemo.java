@@ -1,3 +1,5 @@
+package LeetCode;
+
 import java.util.StringJoiner;
 
 public class StringJoinerDemo {

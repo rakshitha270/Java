@@ -1,3 +1,5 @@
+package LeetCode;
+
 public class Fibbanocci {
     public static void main(String[] args) {
 

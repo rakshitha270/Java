@@ -1,3 +1,5 @@
+package LeetCode;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -22,7 +24,7 @@ class FizzBuzzDemo {
 
     // Main method to run the program
     public static void main(String[] args) {
-        // Create an instance of FizzBuzzDemo
+        // Create an instance of LeetCode.FizzBuzzDemo
         FizzBuzzDemo demo = new FizzBuzzDemo();
 
         // Set the value of n

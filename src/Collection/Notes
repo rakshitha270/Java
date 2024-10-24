@@ -5,3 +5,11 @@ Collection:-
 4.HashSet
 5.TreeSet
 6.LinkedHashSet
+
+
+Collection:-
+Iterable->it is used to traverse the collection
+1.iterator():-1.hasNext()
+             2.next()
+             3.remove()
+2.forEach()

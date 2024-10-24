@@ -1,5 +1,6 @@
+package LeetCode;
 
-class Solution {
+class Solution1 {
 
     // Method to calculate the maximum number of water bottles that can be drunk
     public int numWaterBottles(int n, int target) {
@@ -18,7 +19,7 @@ class Solution {
         int target = 3;
 
         // Create an instance of the Solution class
-        Solution solution = new Solution();
+        Solution1 solution = new Solution1();
 
         // Call the numWaterBottles method
         int result = solution.numWaterBottles(n, target);
